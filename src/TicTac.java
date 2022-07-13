@@ -1,7 +1,8 @@
-import java.util.*;
+import java.util.Arrays;
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
-public class GFG {
-
+public class TicTac {
     static String[] board;
     static String turn;
 
@@ -169,4 +170,3 @@ public class GFG {
         }
     }
 }
-
